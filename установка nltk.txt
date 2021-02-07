@@ -1,0 +1,10 @@
+Использование conda :
+
+conda install nltk 
+ 
+Чтобы обновить nltk с помощью conda :
+
+conda update nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
